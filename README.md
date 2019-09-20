@@ -1,13 +1,13 @@
 # Linear-and-Logisitic-Regression
 
-Real Estate Price Prediction - using Advanced Linear Regression
-Techniques
+Real Estate Price Prediction - using Advanced Linear Regression Techniques
+
 Overview
-There are several factors that influence the price a buyer is willing to pay for a house. Some are apparent and obvious and some are not. Nevertheless,
-a rational approach facilitated by machine learning can be very useful in predicting the house price. A large data set with 79 different features (like
-living area, number of rooms, location etc) along with their prices are provided for residential homes in Ames, Iowa. The challenge is to learn a
-relationship between the important features and the price and use it to predict the prices of a new set of houses.
-Here's a brief version of what you'll find in the data description file.
+There are several factors that influence the price a buyer is willing to pay for a house. Some are apparent and obvious and some are not. Nevertheless,a rational approach facilitated by machine learning can be very useful in predicting the house price. A large data set with 79 different features (like
+living area, number of rooms, location etc) along with their prices are provided for residential homes in Ames, Iowa. The challenge is to learn a relationship between the important features and the price and use it to predict the prices of a new set of houses.
+
+Here's a brief version of what you'll find in the data description file. 
+
 SalePrice - the property's sale price in dollars. This is the target variable that you're trying to predict.
 MSSubClass: The building class
 MSZoning: The general zoning classification
@@ -88,7 +88,10 @@ MoSold: Month Sold
 YrSold: Year Sold
 SaleType: Type of sale
 SaleCondition: Condition of sale
+
+
 Content
+
 1. Import packages
 2. Load data
 3. Data preparation
